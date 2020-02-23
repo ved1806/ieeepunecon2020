@@ -3250,25 +3250,21 @@ h6 {
 
 /* line 361, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_elements.scss */
 .progress-table .serial {
-  width: 11.83%;
+  width: 33%;
   padding-left: 30px;
 }
 
 /* line 365, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_elements.scss */
 .progress-table .country {
-  width: 28.07%;
+  width: 33%;
 }
 
 /* line 368, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_elements.scss */
 .progress-table .visit {
-  width: 19.74%;
+  width: 33%%;
 }
 
 /* line 371, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_elements.scss */
-.progress-table .percentage {
-  width: 40.36%;
-  padding-right: 50px;
-}
 
 /* line 375, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_elements.scss */
 .progress-table .table-head {
@@ -3279,7 +3275,7 @@ h6 {
 .progress-table .table-head .serial,
 .progress-table .table-head .country,
 .progress-table .table-head .visit,
-.progress-table .table-head .percentage {
+.progress-table .table-head  {
   color: #415094;
   line-height: 40px;
   text-transform: uppercase;
@@ -3297,7 +3293,7 @@ h6 {
 .progress-table .table-row .serial,
 .progress-table .table-row .country,
 .progress-table .table-row .visit,
-.progress-table .table-row .percentage {
+.progress-table .table-row  {
   display: flex;
   align-items: center;
 }
