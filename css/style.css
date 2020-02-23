@@ -44,6 +44,23 @@ h3{
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff9600', endColorstr='#1bb8f9',GradientType=1 );
   /* IE6-9 */
 }
+.card
+{
+  padding: 30px 30px 30px 30px;
+  
+  height: 200px;
+}
+
+.card1
+{
+  margin-top: 15px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  padding: 3%;
+  height: 100px;
+}
 
 /* Normal desktop :1200px. */
 /* Normal desktop :992px. */
